@@ -1,5 +1,5 @@
-#Kai Van Hoven
-**Bachelor of Artificial Intelligence @ University of Technology Sydney | 78 WAM | Penultimate Student**
+# Kai Van Hoven 
+**Bachelor of Artificial Intelligence @ UTS | 78 WAM | Penultimate Student**
 
 ### 🚀 Current Project: ShiftFlow Analytics
 I am currently architecting a predictive system that analyzes operational bottlenecks using synthetic service-industry data.
@@ -15,6 +15,7 @@ I am currently architecting a predictive system that analyzes operational bottle
 - **Tools:** Git, Linux, Jupyter Notebooks.
 
 ---
+
 ### 📫 Connect with me:
 - **LinkedIn:** https://www.linkedin.com/in/kai-van-hoven-214043275/
 - **Email:** kaivh6488@gmail.com
