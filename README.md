@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kai Van Hoven 👋
+**Bachelor of Artificial Intelligence @ UTS | 78 WAM | Penultimate Student**
 
-<!--
-**kvh6488/kvh6488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Current Project: ShiftFlow Analytics
+I am currently architecting a predictive system that analyzes operational bottlenecks using synthetic service-industry data.
+- **Tech Stack:** Python, Scikit-Learn, Streamlit.
+- **Focus:** Data preprocessing, predictive modeling, and dashboard deployment.
+- **Status:** Initial data pipeline and feature engineering in progress.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+- **Programming:** Python, Java, C++, Bash.
+- **Data & AI:** Foundational Data Analytics, Supervised Learning, Model Evaluation.
+- **Tools:** Git, Linux, Jupyter Notebooks.
+
+---
+### 📫 Connect with me:
+- **LinkedIn:** https://www.linkedin.com/in/kai-van-hoven-214043275/
+- **Email:** kaivh6488@gmail.com
