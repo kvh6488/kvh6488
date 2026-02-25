@@ -1,4 +1,4 @@
-# Hi, I'm Kai Van Hoven 👋
+Kai Van Hoven
 **Bachelor of Artificial Intelligence @ University of Technology Sydney | 78 WAM | Penultimate Student**
 
 ### 🚀 Current Project: ShiftFlow Analytics
