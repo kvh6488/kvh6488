@@ -1,13 +1,10 @@
 # Kai Van Hoven 
 **Bachelor of Artificial Intelligence @ Universiy of Technology Sydney | Undergraduate Student**
 
-
 ### 🛠️ Technical Toolkit
-- **Programming:** Python, Java, C++, Bash.
-- **Data & AI:** Foundational Data Analytics, Supervised Learning, Model Evaluation.
-- **Tools:** Git, Linux, Jupyter Notebooks.
-
----
+- **Programming:** Python, Java, C++, Bash/Shell Scripting.
+- **Data & AI:** Foundational Data Analytics, Unsupersied & Supervised Learning, Model Evaluation.
+- **Tools:** Git/GitHub, Linux/Unix Systems, VS Code, Microsoft Excel (Advanced)
 
 ### 📫 Connect with me:
 - **LinkedIn:** https://www.linkedin.com/in/kai-van-hoven-214043275/
