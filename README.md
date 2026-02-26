@@ -1,13 +1,6 @@
 # Kai Van Hoven 
 **Bachelor of Artificial Intelligence @ Universiy of Technology Sydney | Undergraduate Student**
 
-### 🚀 Current Project: ShiftFlow Analytics
-I am currently architecting a predictive system that analyzes operational bottlenecks using synthetic service-industry data.
-- **Tech Stack:** Python, Scikit-Learn, Streamlit.
-- **Focus:** Data preprocessing, predictive modeling, and dashboard deployment.
-- **Status:** Initial data pipeline and feature engineering in progress.
-
----
 
 ### 🛠️ Technical Toolkit
 - **Programming:** Python, Java, C++, Bash.
