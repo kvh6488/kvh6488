@@ -2,9 +2,13 @@
 **Bachelor of Artificial Intelligence @ Universiy of Technology Sydney | Undergraduate Student**
 
 ### 🛠️ Technical Toolkit
-- **Programming:** Python, Java, C++, Bash/Shell Scripting.
-- **Data & AI:** Foundational Data Analytics, Unsupersied & Supervised Learning, Model Evaluation.
-- **Tools:** Git/GitHub, Linux/Unix Systems, VS Code, Microsoft Excel (Advanced)
+- **Languages:** Python, Java, C++, Bash/Shell Scripting, SQL
+- **AI & Data:** Foundational Data Analytics, Supervised & Unsupervised Learning, Model Evaluation
+-- **Frameworks:** PyTorch, TensorFlow, Scikit-Learn
+-- **Libraries:**Pandas, NumPy
+-**Additional:** Data Structures, algorithms, TCP/IP & network programming
+-**Tools:** Git/GitHub, Linux/Unix Systems, VS Code, Cursor, Claude Code, GitHub Copilot
+
 
 ### 📫 Connect with me:
 - **LinkedIn:** https://www.linkedin.com/in/kai-van-hoven-214043275/
