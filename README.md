@@ -4,8 +4,8 @@
 ### 🛠️ Technical Toolkit
 - **Languages:** Python, Java, C++, Bash/Shell Scripting, SQL
 - **AI & Data:** Foundational Data Analytics, Supervised & Unsupervised Learning, Model Evaluation
--- **Frameworks:** PyTorch, TensorFlow, Scikit-Learn
--- **Libraries:**Pandas, NumPy
+ +**Frameworks:** PyTorch, TensorFlow, Scikit-Learn
+ +**Libraries:**Pandas, NumPy
 -**Additional:** Data Structures, algorithms, TCP/IP & network programming
 -**Tools:** Git/GitHub, Linux/Unix Systems, VS Code, Cursor, Claude Code, GitHub Copilot
 
